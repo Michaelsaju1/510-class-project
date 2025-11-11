@@ -1,6 +1,7 @@
 # 510-class-project
 
-This class project focused on classifying how accurately we could classify whether a patient had alzheimers or not. We used logistical regression as our model and accuracy as our classification metric. After training the model, we achieved an accuracy of 81.4%.
+This class project focused on classifying how accurately we could classify whether a patient had Alzheimers or not. We used logistical regression as our model and accuracy as our classification metric. After training the model, we achieved an accuracy of 81.4%.
+Separately, we added a Random Forest Classifier model with hyperparameter tuning and achieved an accuracy (recall) of 89.9%
 
 ## Getting Started
 
